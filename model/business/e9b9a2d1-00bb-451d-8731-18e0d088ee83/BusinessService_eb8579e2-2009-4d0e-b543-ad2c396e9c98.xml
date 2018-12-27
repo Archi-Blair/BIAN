@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Authentication"
+    id="eb8579e2-2009-4d0e-b543-ad2c396e9c98"
+    documentation="Example of use:&#xD;&#xA;A customer is authenticated making contact through a channel&#xD;&#xA;&#xD;&#xA;General comment:&#xD;&#xA;Currently authentication is a cross channel capability that may use any device/tag or secret information to authenticate a party. Channel or device specific variations may be required. It is assumed a number of authentication levels will be defined for a deployment"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E-Branch Management / Управление онлайн-каналами обслуживания"
+    id="2f23510e-d321-4000-8a52-52f5715f0913"
+    documentation="Example of use:&#xD;&#xA;A new bank customer registers for E-banking access and checks their balance.&#xD;&#xA;General comment:&#xD;&#xA;This function maintains the products and services enabled to customers over the Web - this includes administering user access and service entitlement where necessary (that will be accessed during operations).&#xD;&#xA;&#xD;&#xA;Пример:&#xD;&#xA;Новый клиент регистрируется для доступа к электронным банковским услугам и проверяет баланс.&#xD;&#xA;Описание:&#xD;&#xA;Поддержание доступа к продуктам и услугам, предоставляемым клиентам через Интернет.  Сюда так же входит администрирование доступа пользователей."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E-Branch Operations"
+    id="3049efbc-a429-4d99-8a1d-a5c9ca2237b4"
+    documentation="Example of use:&#xD;&#xA;A day in the life of a web based banking service, dynamically assigns traffic across processing capabilities to minimize response delays&#xD;&#xA;&#xD;&#xA;General comment:&#xD;&#xA;This is the operating schedule for the E-branch production systems, including access checks, load balancing and device failure and recovery handling - typically a complex 24/7 operation. It can include computer telephony integration (CTI) with branch and call center channels. Note the on-line facilities should match teller and ATM customer viewpoints making allowances for the self serve nature of the dialogue and channel limitations as necessary"/>

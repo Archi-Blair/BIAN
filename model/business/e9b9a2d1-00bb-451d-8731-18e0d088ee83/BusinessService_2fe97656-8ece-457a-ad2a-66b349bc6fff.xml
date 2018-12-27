@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Branch Location Management / Управление размещением филиалов"
+    id="2fe97656-8ece-457a-ad2a-66b349bc6fff"
+    documentation="Example of use:&#xD;&#xA;A reporting cycle for a bank branch location.&#xD;&#xA;General comment:&#xD;&#xA;This handles the management and oversight of a branch location - including any local decision making, troubleshooting, planning and performance assurance and reporting&#xD;&#xA;&#xD;&#xA;Пример:&#xD;&#xA;Цикл отчетности по местоположению филиала банка.&#xD;&#xA;Описание:&#xD;&#xA;Регулируется управление и контроль за местоположением филиала - включая любые локальные решения: устранение неполадок, планирование и обеспечение эффективности и отчетность"/>

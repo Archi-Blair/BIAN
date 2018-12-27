@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Workbench//Рабочая среда клиента"
+    id="613d4fa2-b9d0-4863-b878-1f3573f8d0b3"
+    documentation="Example of use:&#xD;&#xA;A customer downloads an end user financial management application offered by the bank&#xD;&#xA;&#xD;&#xA;General comment:&#xD;&#xA;This service domain handles the distribution and operation of a client based facility to support local working and access to the banks different products and services. It allows for the customer to maintain information and configuration settings remotely to govern their own access environment as necessary. The service domain is external to the bank, but is included as it may run application capabilities that are either provide by or certified for use by the bank."/>

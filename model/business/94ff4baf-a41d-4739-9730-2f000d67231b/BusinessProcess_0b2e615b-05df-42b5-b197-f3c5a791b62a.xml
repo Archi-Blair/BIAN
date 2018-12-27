@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Request/Запросить услугу"
+    id="0b2e615b-05df-42b5-b197-f3c5a791b62a"
+    documentation="Service Group:&#xD;&#xA;CustomerWorkbenchOperatingSession_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;requestCustomerWorkbenchOperatingSession&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Comment:&#xD;&#xA;Request a service under the Customer Workbench Operating Session&#xD;&#xA;Запрос услуги в рамках установленной сессии"/>

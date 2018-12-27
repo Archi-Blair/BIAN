@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contact Routing"
+    id="b1f17e26-06c0-45e0-aced-51ce3d0cb8a9"
+    documentation="Example of use:&#xD;&#xA;A customer is self servicing on the E-Branch and uses VoIP to request contact center support. A case is raised against a disputed service change and the customer contact is logged&#xD;&#xA;&#xD;&#xA;General comment:&#xD;&#xA;Contact Routing is called from Contact Management to initiate a contact session within an active customer contact. The routing decision can include determining the purpose of the contact, screen pop generation (using CTI) subject ID verification and further determination of contact purpose (than that already determined in the channel or provided by Contact Management). Routing can be optimized for leverage of specialized/qualified servicing resources, have scheduled and load/activity based routing criteria. Contact Routing can collaborate with Contact Manager to support multiple contact sessions in parallel or in series within a single customer contact event as needed."/>

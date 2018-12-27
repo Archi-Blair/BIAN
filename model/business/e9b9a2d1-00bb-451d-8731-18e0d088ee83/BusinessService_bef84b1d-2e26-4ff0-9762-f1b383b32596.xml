@@ -1,0 +1,7 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contact Center Operations/Деательность контакт-центра"
+    id="bef84b1d-2e26-4ff0-9762-f1b383b32596"
+    documentation="Example of use:&#xD;&#xA;A contact center is involved in the capture, routing and resolution of a customer issue, resulting in a sales attempt during the dialogue&#xD;&#xA;General comment:&#xD;&#xA;This function executes the contact center configuration, capturing resource availability, assigning positions and making load based adjustments as necessary to optimize performance/utilization&#xD;&#xA;&#xD;&#xA;Бизнес-домен: &#xD;&#xA;Операционная деаятельность контакт-центра &#xD;&#xA;Пример:&#xD;&#xA;Контакт-центр участвует в обработке, маршрутизации и разрешении проблем клиента, что способствует продажам.&#xD;&#xA;Описание:&#xD;&#xA;Выполнение конфигурации контакт-центра, фиксирование доступности ресурсов, назначение позиций и распределение нагрузки по мере необходимости для оптимизации производительности/использования.">
+  <properties/>
+</archimate:BusinessService>

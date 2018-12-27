@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Advanced Voice Services Operations"
+    id="75c6954f-79da-45c6-ab5b-b855a9e203c5"
+    documentation="Операции расширенного голосового обслуживания &#xD;&#xA;&#xD;&#xA;Пример:&#xD;&#xA;Настройка голосового меню для увеличения числа случаев самообслуживания клиентов в максимальные часы нагрузки (реализовывается настройками IVR - Interactive Voice Response)&#xD;&#xA;&#xD;&#xA;Описание:&#xD;&#xA;Учет инфраструктуры АТС/телефонии, включая встроенные возможности IVR. &#xD;&#xA;Система УАТС будет тесно интегрирована с колл-центром и возможностями E-Branch (онлайн-каналов) в зависимости от степени интеграции компьютерной телефонии (CTI -  Computer Telephony Integration) и поддержки связанного канала."/>
