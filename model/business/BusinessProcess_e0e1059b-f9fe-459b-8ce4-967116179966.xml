@@ -1,5 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Business Process) Execute/Просмотреть "
-    id="e0e1059b-f9fe-459b-8ce4-967116179966"
-    documentation="Service Group:&#xD;&#xA;CustomerWorkbenchOperatingSession_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA; executeCustomerWorkbenchOperatingSessionBrowsing&#xD;&#xA;&#xD;&#xA;Cjmment:&#xD;&#xA; Execute access to the bank 'portal'&#xD;&#xA;Выполнить доступ к порталу банка"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Request SW Update/Запросить обновление ПО у клиента"
+    id="ce56cdbb-9938-485d-8418-5af872c979fb"
+    documentation="Service Group:&#xD;&#xA;CustomerWorkbenchOperatingSession_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;requestCustomerWorkbenchOperatingSessionSWUpdate&#xD;&#xA;&#xD;&#xA;Comment:&#xD;&#xA;Request SW refresh from the bank"/>

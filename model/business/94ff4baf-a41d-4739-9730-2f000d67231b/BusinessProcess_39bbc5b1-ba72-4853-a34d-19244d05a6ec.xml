@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Business Process) Record/Получить ответ"
+    name="(Business Process) Record Operating Session/Записать ответ на запрос инициации рабочей сессии"
     id="39bbc5b1-ba72-4853-a34d-19244d05a6ec"
     documentation="Service Group:&#xD;&#xA;CustomerWorkbenchOperatingSession_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;recordCustomerWorkbenchOperatingSession&#xD;&#xA;&#xD;&#xA;Comment:&#xD;&#xA; Record activity/feedback back to the workbench"/>

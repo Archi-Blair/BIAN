@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Notify Service Product Fulfillment Arrangement/Подписаться на услугу уведомлений по продукту"
+    id="9f2f9e37-b19c-40af-a401-de55950cd1c8"
+    documentation="ServiceGroup:&#xD;&#xA; ServiceProductFulfillmentArrangement_Reporting&#xD;&#xA;ServiceOperation &#xD;&#xA;notifyServiceProductFulfillmentArrangement&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Subscribe to service product fulfillment arrangement notification services&#xD;&#xA;Подписаться на услугу уведомлений по продукту"/>

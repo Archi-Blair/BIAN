@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Terminate Service Product Fulfillment Arrangement/Завершить"
+    id="8780e8bb-f484-4f84-bd24-9068e1c6960d"
+    documentation="ServiceGroup:&#xD;&#xA; ServiceProductFulfillmentArrangement_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;terminateServiceProductFulfillmentArrangement&#xD;&#xA;&#xD;&#xA;Documentation:&#xD;&#xA;Terminate all or some part of the service product fulfillment arrangement&#xD;&#xA;Расторгнуть все или часть соглашения о выполнении сервисного продукта"/>

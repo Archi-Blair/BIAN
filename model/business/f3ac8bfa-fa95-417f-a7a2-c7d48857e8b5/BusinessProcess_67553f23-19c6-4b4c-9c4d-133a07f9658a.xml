@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Request Service Product Fulfillment Arrangement/Запросить действие"
+    id="67553f23-19c6-4b4c-9c4d-133a07f9658a"
+    documentation="ServiceGroup:&#xD;&#xA; ServiceProductFulfillmentArrangement_Invocation&#xD;&#xA;ServiceOperation: &#xD;&#xA;requestServiceProductFulfillmentArrangement&#xD;&#xA;&#xD;&#xA;Comment:&#xD;&#xA;Request a service under the service product fulfillment arrangement"/>

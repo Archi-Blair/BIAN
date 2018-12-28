@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Initiate/Инициировать процесс по сервисному продукту"
+    id="d1fa0dc3-0bac-4e2c-a5b8-394307cba415"
+    documentation="ServiceGroup:&#xD;&#xA; ServiceProductFulfillmentArrangement_Origination&#xD;&#xA;&#xD;&#xA;ServiceOperation: &#xD;&#xA;initiateServiceProductFulfillmentArrangement&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Initiate a service product fulfillment arrangement"/>
