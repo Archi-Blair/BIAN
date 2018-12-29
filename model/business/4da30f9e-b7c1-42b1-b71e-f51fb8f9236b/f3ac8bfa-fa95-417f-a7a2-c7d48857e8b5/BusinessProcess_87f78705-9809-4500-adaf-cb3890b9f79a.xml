@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Retrieve Service Product Fulfillment Arrangement/ Получить"
+    id="87f78705-9809-4500-adaf-cb3890b9f79a"
+    documentation="ServiceGroup:&#xD;&#xA; ServiceProductFulfillmentArrangement_Reporting&#xD;&#xA;ServiceOperation &#xD;&#xA;retrieveServiceProductFulfillmentArrangement&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA;Retrieve service product fulfillment arrangement related reports&#xD;&#xA;Получение отчетов по выполнению сервисных продуктов"/>

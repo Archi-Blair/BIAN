@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Evaluate Regulatory Compliance Assessment/Запросить выполнение проверки"
+    id="43019299-f440-47ac-bf98-489cf0652c11"
+    documentation="ServiceGroup:&#xD;&#xA;RegulatoryComplianceAssessment_Invocation&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;evaluateRegulatoryComplianceAssessment&#xD;&#xA;&#xD;&#xA;Documentation:&#xD;&#xA;Request a regulatory compliance assessment"/>

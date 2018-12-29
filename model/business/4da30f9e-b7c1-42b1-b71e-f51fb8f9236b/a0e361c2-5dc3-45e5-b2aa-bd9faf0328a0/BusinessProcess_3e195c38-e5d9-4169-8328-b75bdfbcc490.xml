@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Record Regulatory Compliance Assessment/Записать факт проверки"
+    id="3e195c38-e5d9-4169-8328-b75bdfbcc490"
+    documentation="ServiceGroup:&#xD;&#xA;RegulatoryComplianceAssessment_Invocation&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;recordRegulatoryComplianceAssessment&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA;Record details against an active regulatory compliance assessment"/>

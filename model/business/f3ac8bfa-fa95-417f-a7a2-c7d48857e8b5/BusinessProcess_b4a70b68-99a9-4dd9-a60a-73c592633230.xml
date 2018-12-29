@@ -1,5 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Business Process) Record Service Product Fulfillment Arrangement/Записать сведения о выполнении действия по сервисному продукту"
-    id="b4a70b68-99a9-4dd9-a60a-73c592633230"
-    documentation="ServiceGroup:&#xD;&#xA; ServiceProductFulfillmentArrangement_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;recordServiceProductFulfillmentArrangement&#xD;&#xA;&#xD;&#xA;Comment:&#xD;&#xA;Record activity details/information against the service product fulfillment arrangement"/>

@@ -1,5 +1,5 @@
-<archimate:BusinessService
+<archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Regulatory Compliance/ Комплаенс"
-    id="dc4929bf-4590-459a-81cd-57642c2c75ff"
+    name="(Business Function) Regulatory Compliance"
+    id="e67010e4-ce29-4f64-92e0-b1dc5c7c3210"
     documentation="Example of use:&#xD;&#xA;A new customer's details are passed for regulatory watch list checks. A subsequent transaction is reported for regulatory compliance checks&#xD;&#xA;&#xD;&#xA;General comment:&#xD;&#xA;This service domain administers the scheduled and ad-hoc application of regulatory checks. This includes determining which regulations apply in specific circumstances and the subsequent application of the associated tests."/>

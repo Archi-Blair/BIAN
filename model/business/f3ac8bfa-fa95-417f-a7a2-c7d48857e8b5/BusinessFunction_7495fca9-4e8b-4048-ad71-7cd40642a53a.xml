@@ -1,5 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Business Function) Service Product"
-    id="7495fca9-4e8b-4048-ad71-7cd40642a53a"
-    documentation="FunctionalPattern:&#xD;&#xA;Fulfill&#xD;&#xA;&#xD;&#xA;Fulfill any scheduled and ad-hoc obligations under a service arrangement, most typically for a financial product or facility. Example: Perform the scheduled (e.g. statements, standing orders) and ad-hoc/requested (e.g. balance inquiries, fund transfers) fulfillment tasks for a customer current account facility."/>
