@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Request product/service access/ Запросить доступ к продукту/услуге"
+    id="d4a8fe9f-afeb-46e5-9c27-6239d13486ae"
+    documentation="Service Group:&#xD;&#xA;CustomerContactSessionProcedure_Origination&#xD;&#xA;ServiceOperation: &#xD;&#xA;requestCustomerContactSessionProcedureProduct/Service&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA;Request product/service access&#xD;&#xA;"/>

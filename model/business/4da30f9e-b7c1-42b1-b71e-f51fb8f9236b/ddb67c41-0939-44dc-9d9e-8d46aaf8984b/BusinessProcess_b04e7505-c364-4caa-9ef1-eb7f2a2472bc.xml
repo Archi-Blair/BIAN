@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Request a refresh of an entry"
+    id="b04e7505-c364-4caa-9ef1-eb7f2a2472bc"
+    documentation="ServiceGroup:&#xD;&#xA;CustomerReferenceDataDirectoryEntry_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;requestCustomerReferenceDataDirectoryEntry&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Request a refresh of an existing customer directory entry"/>

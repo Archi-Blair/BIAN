@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process)Update /Обновить"
+    id="f89a866f-1721-4ea2-ac30-417514b0ac8b"
+    documentation="ServiceGroup:&#xD;&#xA;PartyRelationshipProcedure_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;updatePartyRelationshipProcedure&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA;Update details of an active prospect"/>

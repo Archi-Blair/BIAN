@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Record/Записать"
+    id="db0f65da-c2a0-4787-bea1-169f68f00397"
+    documentation="ServiceGroup:&#xD;&#xA;PartyRelationshipProcedure_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;recordPartyRelationshipProcedure&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Record information against an active prospect"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Record/Создать запись"
+    id="9b35d534-b40e-4f3c-8dc2-ec0af536bcb1"
+    documentation="ServiceGroup:&#xD;&#xA;CustomerContactSessionProcedure_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;recordCustomerContactSessionProcedure&#xD;&#xA;&#xD;&#xA;Documentation:&#xD;&#xA; Record information against an active contact dialogue session"/>

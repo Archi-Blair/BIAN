@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Request Customer Offer/Запросить предложение "
+    id="9cec4ba5-a946-4c69-bb7e-145f8c37912a"
+    documentation="Service Group:&#xD;&#xA;CustomerContactSessionProcedure_Origination&#xD;&#xA;ServiceOperation: &#xD;&#xA;requestCustomerContactSessionProcedureOffer&#xD;&#xA;Documentation:&#xD;&#xA; Request a customer offer procedure"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Retrieve a customer reference directory record/report"
+    id="c03c70a8-ef85-4abf-a532-52a4f9e96efe"
+    documentation="ServiceGroup:&#xD;&#xA;CustomerReferenceDataDirectoryEntry_Reporting&#xD;&#xA;ServiceOperation:&#xD;&#xA;retrieveCustomerReferenceDataDirectoryEntry&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Retrieve a customer reference directory record/report"/>

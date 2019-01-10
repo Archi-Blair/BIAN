@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Contact Dialogue"
-    id="7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+    name="Contact Dialogue/Диалог с пользователем"
+    id="7ce48e4e-19f9-423b-800e-748e951e1dd5"
+    documentation="Example of use:&#xD;&#xA;A customer dials the contact center with an account balance request. The customer identity is checked by the rep (using a Party Profile service operation). After the customer question has been answered the dialogue is structured to attempt a sales pitch for an internal campaign that the customer has been preapproved for as flagged in their Party Profile record&#xD;&#xA;&#xD;&#xA;General comment:&#xD;&#xA;The Customer dialogue handling capability provides a highly structured orchestration capability to leverage any customer interaction by consolidating customer related data and using the session (and any additional intelligence and context data gleaned during the dialogue) to leverage the interaction. In a more advance implementation the customer interaction capabilities could be integrated into an automated self/service context in addition to the more conventional CSR support utility. The structured customer dialogue leverages the opportunity by checking for other business activities that may be worked into the session for example, delivering pending communications, sales/marketing, capturing intelligence/triggers, updating status, product fulfillment (such as synchronizing customer-side data sets). The facility can be multi-channel/multi-device"/>

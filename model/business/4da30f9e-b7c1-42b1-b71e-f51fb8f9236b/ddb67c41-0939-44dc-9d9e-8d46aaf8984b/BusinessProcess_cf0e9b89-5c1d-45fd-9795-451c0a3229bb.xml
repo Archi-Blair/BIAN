@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Record Data Directory Entry"
+    id="cf0e9b89-5c1d-45fd-9795-451c0a3229bb"
+    documentation="ServiceGroup:&#xD;&#xA;CustomerReferenceDataDirectoryEntry_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;recordCustomerReferenceDataDirectoryEntry&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Record usage or feedback against a customer directory entry"/>

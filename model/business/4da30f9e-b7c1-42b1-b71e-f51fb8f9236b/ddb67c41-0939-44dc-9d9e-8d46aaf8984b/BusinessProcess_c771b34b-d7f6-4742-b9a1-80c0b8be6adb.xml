@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Register bank relationship details"
+    id="c771b34b-d7f6-4742-b9a1-80c0b8be6adb"
+    documentation="ServiceGroup:&#xD;&#xA;CustomerReferenceDataDirectoryEntry_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;registerCustomerReferenceDataDirectoryEntryBankRelations&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Register bank relationship/activity details against an existing customer record"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Request Customer Order/Запросить поручение клиента"
+    id="cf821c1c-7de7-4f5c-a942-0aa5675e2650"
+    documentation="Service Group:&#xD;&#xA;CustomerContactSessionProcedure_Origination&#xD;&#xA;ServiceOperation: &#xD;&#xA;requestCustomerContactSessionProcedureOrder&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA;Request raising a customer order"/>

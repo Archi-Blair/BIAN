@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process)  Register demographic details"
+    id="92b22202-57b2-452a-b95f-1162c6a2994a"
+    documentation="ServiceGroup:&#xD;&#xA;CustomerReferenceDataDirectoryEntry_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;registerCustomerReferenceDataDirectoryEntryDemographics&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Register demographic details against an existing customer record"/>

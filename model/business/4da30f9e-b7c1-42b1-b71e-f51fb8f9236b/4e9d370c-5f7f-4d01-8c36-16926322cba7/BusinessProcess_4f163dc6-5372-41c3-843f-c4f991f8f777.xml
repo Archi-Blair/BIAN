@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process)  Update an existing party directory reference entry"
+    id="4f163dc6-5372-41c3-843f-c4f991f8f777"
+    documentation="ServiceGroup:&#xD;&#xA;PartyDirectoryEntry_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;updatePartyDirectoryEntry&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Update an existing party directory reference entry"/>

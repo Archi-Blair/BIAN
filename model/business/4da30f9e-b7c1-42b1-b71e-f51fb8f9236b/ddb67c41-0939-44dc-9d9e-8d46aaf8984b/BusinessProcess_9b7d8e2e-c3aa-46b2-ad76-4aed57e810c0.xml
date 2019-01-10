@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Register a customer relationship between existing customer records"
+    id="9b7d8e2e-c3aa-46b2-ad76-4aed57e810c0"
+    documentation="ServiceGroup:&#xD;&#xA;CustomerReferenceDataDirectoryEntry_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;registerCustomerReferenceDataDirectoryEntryAssociation&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Register a customer relationship/associations between existing customer records"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Register a new party association within the directory"
+    id="93dc436e-3b5e-43d4-b7ef-50a8bdd31349"
+    documentation="ServiceGroup:&#xD;&#xA;PartyDirectoryEntry_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;registerPartyDirectoryEntryPartyAssociation&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Register a new party association within the directory"/>

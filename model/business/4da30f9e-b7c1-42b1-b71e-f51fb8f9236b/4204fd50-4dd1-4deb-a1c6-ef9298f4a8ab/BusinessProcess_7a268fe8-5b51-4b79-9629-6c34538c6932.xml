@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Request a service/Запросить"
+    id="7a268fe8-5b51-4b79-9629-6c34538c6932"
+    documentation="ServiceGroup:&#xD;&#xA;PartyRelationshipProcedure_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;requestPartyRelationshipProcedure&#xD;&#xA;&#xD;&#xA;Comment:&#xD;&#xA;Request a service under the Prospect Procedure"/>

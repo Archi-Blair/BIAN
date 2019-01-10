@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Retrieve report/ Получить отчет"
+    id="e9795230-3f17-40b5-9216-ad46f505674f"
+    documentation="ServiceGroup:&#xD;&#xA; PartyRelationshipProcedure_Reporting&#xD;&#xA;ServiceOperation:&#xD;&#xA;retrievePartyRelationshipProcedure&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA;Retrieve prospect procedure report"/>

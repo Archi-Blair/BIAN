@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Request to refresh an existing party directory entry"
+    id="babb8bbf-9d47-4509-9c8f-1102afe4ade3"
+    documentation="ServiceGroup:&#xD;&#xA;PartyDirectoryEntry_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;requestPartyDirectoryEntry&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Request to refresh an existing party directory entry"/>

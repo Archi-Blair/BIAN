@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Configure"
+    id="95488f01-95a4-42e7-bd4d-c34a4fea8c20"
+    documentation="ServiceGroup:&#xD;&#xA;PartyDirectoryEntry_Origination&#xD;&#xA;ServiceOperation:&#xD;&#xA;configurePartyDirectoryEntry&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Amend the configuration arrangements/parameters governing the party directory&#xD;&#xA;"/>

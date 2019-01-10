@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Record usage or feedback against a directory entry"
+    id="fa011b4b-3834-4e9d-882e-7726d6e1c94d"
+    documentation="ServiceGroup:&#xD;&#xA;PartyDirectoryEntry_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;recordPartyDirectoryEntry&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Record usage or feedback against a directory entry"/>

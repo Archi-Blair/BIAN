@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Request a product/service query/ Запросить продукт/услугу"
+    id="1a779c19-2ae3-42e5-916d-d3692ddb626c"
+    documentation="Service Group:&#xD;&#xA;CustomerContactSessionProcedure_Origination&#xD;&#xA;ServiceOperation: &#xD;&#xA;requestCustomerContactSessionProcedureQuery&#xD;&#xA;&#xD;&#xA;Documentation:&#xD;&#xA; Request a product/service query"/>

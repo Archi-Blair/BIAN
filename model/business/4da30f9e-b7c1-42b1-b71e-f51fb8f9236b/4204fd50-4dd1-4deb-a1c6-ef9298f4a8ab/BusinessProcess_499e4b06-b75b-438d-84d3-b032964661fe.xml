@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Activate /Активировать"
+    id="499e4b06-b75b-438d-84d3-b032964661fe"
+    documentation="ServiceGroup:&#xD;&#xA;PartyRelationshipProcedure_Origination&#xD;&#xA;ServiceOperation:&#xD;&#xA;activatePartyRelationshipProcedure&#xD;&#xA;&#xD;&#xA;Comment:&#xD;&#xA;Assign responsibility for the Prospect Procedure&#xD;&#xA;&#xD;&#xA;"/>

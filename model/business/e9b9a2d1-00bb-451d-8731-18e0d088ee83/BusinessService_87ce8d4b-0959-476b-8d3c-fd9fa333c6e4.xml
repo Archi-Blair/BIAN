@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Customer Reference Data Mgmt"
-    id="87ce8d4b-0959-476b-8d3c-fd9fa333c6e4"/>
+    name="Customer Reference Data Mgmt/Справочные ссылочные данные"
+    id="87ce8d4b-0959-476b-8d3c-fd9fa333c6e4"
+    documentation=" Example of use:&#xD;&#xA;Customer reference data such as demographic, location and reference/address details are maintained for reference across the product and service fulfillment capabilities&#xD;&#xA;General comment:"/>

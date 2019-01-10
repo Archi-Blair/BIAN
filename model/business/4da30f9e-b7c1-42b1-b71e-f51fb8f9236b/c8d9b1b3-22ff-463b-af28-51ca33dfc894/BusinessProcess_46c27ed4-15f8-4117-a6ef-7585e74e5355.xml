@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Request a service/Запросить"
+    id="46c27ed4-15f8-4117-a6ef-7585e74e5355"
+    documentation="Service Group:&#xD;&#xA;CustomerContactSessionProcedure_Origination&#xD;&#xA;ServiceOperation: &#xD;&#xA;requestCustomerContactSessionProcedure&#xD;&#xA;&#xD;&#xA;Comment:&#xD;&#xA;Request a service under the Customer Contact Session Procedure"/>

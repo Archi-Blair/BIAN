@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Subscribe to customer reference data directory notification services"
+    id="04367174-31d9-4bb5-8c17-7e670430a715"
+    documentation="ServiceGroup:&#xD;&#xA;CustomerReferenceDataDirectoryEntry_Reporting&#xD;&#xA;ServiceOperation:&#xD;&#xA;notifyCustomerReferenceDataDirectoryEntry&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Subscribe to customer reference data directory notification services"/>

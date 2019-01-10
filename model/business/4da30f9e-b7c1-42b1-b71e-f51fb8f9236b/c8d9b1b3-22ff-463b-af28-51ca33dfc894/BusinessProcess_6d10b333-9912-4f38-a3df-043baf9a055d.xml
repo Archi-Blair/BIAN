@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Retrieve contact session report/Получить отчет"
+    id="6d10b333-9912-4f38-a3df-043baf9a055d"
+    documentation="Service Group:&#xD;&#xA;CustomerContactSessionProcedure_Reporting&#xD;&#xA;ServiceOperation:&#xD;&#xA;retrieveCustomerContactSessionProcedure&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Retrieve contact session report"/>

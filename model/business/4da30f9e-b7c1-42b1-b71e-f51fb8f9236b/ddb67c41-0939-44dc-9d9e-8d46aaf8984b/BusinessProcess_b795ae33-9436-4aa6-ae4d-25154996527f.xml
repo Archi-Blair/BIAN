@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Update Customer Reference Data"
+    id="b795ae33-9436-4aa6-ae4d-25154996527f"
+    documentation="ServiceGroup:&#xD;&#xA;CustomerReferenceDataDirectoryEntry_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;updateCustomerReferenceDataDirectoryEntry&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Update reference details of an existing customer record"/>
