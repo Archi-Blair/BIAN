@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Notify"
+    id="dd7a7714-7179-49f4-9b01-f5435ff9dcde"
+    documentation="Documentation:&#xD;&#xA;Provide details against a predefined notification agreement. &#xD;&#xA;Example: A unit subscribes to update notifications from the customer agreement service domain."/>

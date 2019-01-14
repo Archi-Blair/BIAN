@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Business Process) Сonfigure"
+    name="(Business Process) Amend the configuration arrangements/parameters governing the customer reference data directory"
     id="cb3f85ac-ecce-470f-ab65-d5ee8f3419f5"
     documentation="ServiceGroup:&#xD;&#xA;CustomerReferenceDataDirectoryEntry_Origination&#xD;&#xA;ServiceOperation:&#xD;&#xA;configureCustomerReferenceDataDirectoryEntry&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Amend the configuration arrangements/parameters governing the customer reference data directory"/>

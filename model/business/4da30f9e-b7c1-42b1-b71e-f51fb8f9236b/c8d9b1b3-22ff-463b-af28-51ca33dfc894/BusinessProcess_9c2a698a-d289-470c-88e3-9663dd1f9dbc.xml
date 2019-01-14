@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Business Process) Update/Обновить"
+    name="(Business Process) Update details of an active customer contact dialogue (from Contact Handler)/Обновить"
     id="9c2a698a-d289-470c-88e3-9663dd1f9dbc"
     documentation="ServiceGroup:&#xD;&#xA;CustomerContactSessionProcedure_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;updateCustomerContactSessionProcedure&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA;Update details of an active customer contact dialogue (from Contact Handler)"/>

@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Business Process) Request Access/Запрос доступа для клиента"
+    name="(Business Process) Request raising/access customer case/Запрос доступа для клиента"
     id="d3348880-c7aa-4ea1-8ed2-21d7473082de"
     documentation="Service Group:&#xD;&#xA;CustomerContactSessionProcedure_Origination&#xD;&#xA;ServiceOperation: &#xD;&#xA;requestCustomerContactSessionProcedureCase&#xD;&#xA;&#xD;&#xA;Documentation: &#xD;&#xA;Request raising/access customer case"/>

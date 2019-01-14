@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Authorize"
+    id="4e09c5d7-d4e3-4992-a64d-5598770bb389"
+    documentation="Documentation:&#xD;&#xA;Allow the execution of a transaction. &#xD;&#xA;Example: Regulatory compliance authorizes a product design feature."/>

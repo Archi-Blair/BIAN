@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Business Process) Request Authentication/Запросить дополнительно аутентификацию"
+    name="(Business Process) Request additional customer authentication/Запросить дополнительно аутентификацию"
     id="bf9ded6f-c071-40c1-ad9c-160e5d7569cc"
     documentation="Service Group:&#xD;&#xA;CustomerContactSessionProcedure_Origination&#xD;&#xA;ServiceOperation: &#xD;&#xA;requestCustomerContactSessionProcedureAuthentication&#xD;&#xA;&#xD;&#xA;Documentation:&#xD;&#xA; Request additional customer authentication"/>

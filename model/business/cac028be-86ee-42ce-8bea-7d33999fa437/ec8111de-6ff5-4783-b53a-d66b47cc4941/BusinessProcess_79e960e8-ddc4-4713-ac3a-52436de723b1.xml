@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Update"
+    id="79e960e8-ddc4-4713-ac3a-52436de723b1"
+    documentation="Documentation:&#xD;&#xA; Change the value of some control record instance's properties. &#xD;&#xA;Example: Update a customer's reference details with a change of address."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Assign responsibility for the party directory"
+    id="63c27605-8996-43e5-922e-76b0513ce113"
+    documentation="ServiceGroup:&#xD;&#xA;PartyDirectoryEntry_Origination&#xD;&#xA;ServiceOperation:&#xD;&#xA;activatePartyDirectoryEntry&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Assign responsibility for the party directory&#xD;&#xA;"/>

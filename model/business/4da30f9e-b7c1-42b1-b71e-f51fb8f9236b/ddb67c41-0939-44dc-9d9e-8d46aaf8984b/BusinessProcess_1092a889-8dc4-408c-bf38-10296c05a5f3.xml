@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Business Process) Activate/Активировать"
+    name="(Business Process) Assign responsibility for the customer reference data directory/Активировать"
     id="1092a889-8dc4-408c-bf38-10296c05a5f3"
     documentation="ServiceGroup:&#xD;&#xA;CustomerReferenceDataDirectoryEntry_Origination&#xD;&#xA;ServiceOperation:&#xD;&#xA;activateCustomerReferenceDataDirectoryEntry&#xD;&#xA;&#xD;&#xA;Documentation:&#xD;&#xA;Assign responsibility for the customer reference data directory"/>
