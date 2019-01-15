@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Business Process) Initiate"
+    name="Initiate"
     id="da7a20ec-c384-4fc0-8a72-85ecfbb8e9cf"
     documentation="Begin an action including any required initialization. &#xD;&#xA;Example: Initiate a payment transaction."/>

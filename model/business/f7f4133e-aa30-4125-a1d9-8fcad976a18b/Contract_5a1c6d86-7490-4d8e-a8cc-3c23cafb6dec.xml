@@ -1,0 +1,5 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Contract) Monitor"
+    id="5a1c6d86-7490-4d8e-a8cc-3c23cafb6dec"
+    documentation="Documentation&#xD;&#xA; Monitor and define the status/rating of some entity. &#xD;&#xA;Examples: Monitor the status and key indicators of a customer to influence on-line interactions and track the status of issued cards for security and access control."/>

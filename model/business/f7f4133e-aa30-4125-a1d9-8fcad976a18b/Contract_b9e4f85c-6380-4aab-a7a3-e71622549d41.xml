@@ -1,0 +1,5 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Contract) Track"
+    id="b9e4f85c-6380-4aab-a7a3-e71622549d41"
+    documentation="Documentation&#xD;&#xA; Maintain a log of transactions or activity, typically a financial account/journal or a log of activity to support analysis. &#xD;&#xA;Examples: Maintain a financial journal of transactions processed for a product or service and maintain a log of customer events and activity for subsequent analysis."/>

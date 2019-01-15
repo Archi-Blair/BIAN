@@ -1,0 +1,5 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Contract) Allocate"
+    id="8769dadf-93c7-435c-b74d-b50d9cc7e15f"
+    documentation="Documentation:&#xD;&#xA; Maintain an inventory or holding of some resource and make assignments/allocations as requested. &#xD;&#xA;Example: Track the inventory and administer the distribution of central cash holdings throughout the branch &amp; ATM network."/>

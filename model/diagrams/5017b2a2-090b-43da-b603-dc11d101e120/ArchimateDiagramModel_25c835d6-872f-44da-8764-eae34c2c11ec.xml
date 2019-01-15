@@ -8,7 +8,7 @@
       id="0030fa29-54c1-4e26-90df-8504ce618229"
       targetConnections="4408dbd1-be07-4fde-956c-87efd3b5dbbc">
     <bounds
-        x="259"
+        x="12"
         y="-240"
         width="331"
         height="55"/>
@@ -137,7 +137,7 @@
           href="CompositionRelationship_2acdd8d3-8417-47d0-bbf3-f79f3a082e9d.xml#2acdd8d3-8417-47d0-bbf3-f79f3a082e9d"/>
     </sourceConnections>
     <bounds
-        x="259"
+        x="12"
         y="-156"
         width="331"
         height="553"/>
@@ -312,7 +312,7 @@
           href="AggregationRelationship_978d5f24-8ee5-4225-9b2f-dd703a2c4285.xml#978d5f24-8ee5-4225-9b2f-dd703a2c4285"/>
     </sourceConnections>
     <bounds
-        x="438"
+        x="191"
         y="540"
         width="145"
         height="55"/>
@@ -325,7 +325,7 @@
       id="ec4f2cca-5ba1-41bd-b65b-931eac5d45f4"
       targetConnections="112300c4-1cbf-47d5-b166-01b1da8ad4b2 523ee862-825f-421f-b57e-030f559ca515">
     <bounds
-        x="432"
+        x="185"
         y="432"
         width="158"
         height="70"/>
@@ -338,7 +338,7 @@
       id="e731c436-54fe-44e8-9ce0-29f7f725924d"
       targetConnections="e169a7d1-b77e-4590-a35c-f4557325a6eb">
     <bounds
-        x="259"
+        x="12"
         y="432"
         width="157"
         height="70"/>
@@ -369,7 +369,7 @@
           href="CompositionRelationship_89bc8144-3c3a-4e14-9a54-084fc1f210b8.xml#89bc8144-3c3a-4e14-9a54-084fc1f210b8"/>
     </sourceConnections>
     <bounds
-        x="635"
+        x="388"
         y="-156"
         width="180"
         height="157"/>
@@ -444,7 +444,7 @@
           href="CompositionRelationship_bc4ffd49-1e3d-4452-96e8-7803b5c6e128.xml#bc4ffd49-1e3d-4452-96e8-7803b5c6e128"/>
     </sourceConnections>
     <bounds
-        x="635"
+        x="388"
         y="12"
         width="182"
         height="277"/>
@@ -518,7 +518,7 @@
           href="CompositionRelationship_3a55d034-55a8-4897-b468-cc77fdc04b34.xml#3a55d034-55a8-4897-b468-cc77fdc04b34"/>
     </sourceConnections>
     <bounds
-        x="635"
+        x="388"
         y="300"
         width="182"
         height="85"/>

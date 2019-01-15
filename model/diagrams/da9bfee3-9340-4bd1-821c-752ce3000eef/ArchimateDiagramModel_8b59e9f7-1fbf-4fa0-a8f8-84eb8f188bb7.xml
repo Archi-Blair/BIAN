@@ -43,8 +43,8 @@
           href="CompositionRelationship_9edbd0d7-8e01-43be-b863-8ce172e3b9f6.xml#9edbd0d7-8e01-43be-b863-8ce172e3b9f6"/>
     </sourceConnections>
     <bounds
-        x="24"
-        y="72"
+        x="720"
+        y="12"
         width="205"
         height="265"/>
     <children
@@ -188,8 +188,8 @@
           href="CompositionRelationship_d51d0c53-4195-437c-b5ab-369921423c4b.xml#d51d0c53-4195-437c-b5ab-369921423c4b"/>
     </sourceConnections>
     <bounds
-        x="252"
-        y="72"
+        x="12"
+        y="12"
         width="205"
         height="577"/>
     <children
@@ -335,8 +335,8 @@
           href="CompositionRelationship_3a55d034-55a8-4897-b468-cc77fdc04b34.xml#3a55d034-55a8-4897-b468-cc77fdc04b34"/>
     </sourceConnections>
     <bounds
-        x="480"
-        y="72"
+        x="720"
+        y="288"
         width="205"
         height="145"/>
     <children
@@ -368,5 +368,170 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_fae5a74e-8f3d-4c85-a21c-e15eb7f776c2.xml#fae5a74e-8f3d-4c85-a21c-e15eb7f776c2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="b1c83ad8-3f78-4342-8deb-f948b19e997a"
+      textAlignment="1"
+      content="Begin an action including any required initialization. &#xD;&#xA;Example: Initiate a payment transaction.">
+    <bounds
+        x="936"
+        y="36"
+        width="457"
+        height="51"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="c4b29eea-c09c-476d-b25e-5799acd74ab7"
+      textAlignment="1"
+      content="Record the details of a newly identified entity. &#xD;&#xA;Example: Capture a new customer's details.">
+    <bounds
+        x="228"
+        y="48"
+        width="457"
+        height="51"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="323c4644-fcbd-42d1-9ce8-e7c2c544e356"
+      textAlignment="1"
+      content=" Change the value of some control record instance's properties. &#xD;&#xA;Example: Update a customer's reference details with a change of address.">
+    <bounds
+        x="228"
+        y="108"
+        width="457"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="d50ccb17-632c-4edc-a87a-57e361c10f8e"
+      textAlignment="1"
+      content="Capture transaction or event detail associated with a life cycle step . &#xD;&#xA;Example: An employee logs time spent working on a project against the plan.">
+    <bounds
+        x="228"
+        y="168"
+        width="457"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="41e4a91f-9505-4d02-bcc8-e0a7b8d6f602"
+      textAlignment="1"
+      content="Execute a task or action on an established facility (note typically creates a result). &#xD;&#xA;Example: Apply a payment to a charge card.">
+    <bounds
+        x="228"
+        y="228"
+        width="457"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="a85e8d3f-7b3e-452a-bf75-6674b76c7ad2"
+      textAlignment="1"
+      content="Perform a check, trial or evaluation. &#xD;&#xA;Example: The eligibility to sell a product is checked against an existing agreement.">
+    <bounds
+        x="228"
+        y="288"
+        width="457"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="20f7ad8a-488e-479c-bbe6-5c135c720134"
+      textAlignment="1"
+      content="Assign or allocate resources or facilities. &#xD;&#xA;Example: A branch requests an allocation of cash for its tellers.">
+    <bounds
+        x="228"
+        y="348"
+        width="457"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="44593415-c9a0-44a2-a520-b8f2a6965f04"
+      textAlignment="1"
+      content="Allow the execution of a transaction. &#xD;&#xA;Example: Regulatory compliance authorizes a product design feature.">
+    <bounds
+        x="228"
+        y="408"
+        width="457"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="f4576b11-6936-4424-817a-111cb81f4f08"
+      textAlignment="1"
+      content="Request for the provision of some service. &#xD;&#xA;Example: A customer requests that a standing order is set up on the current account.">
+    <bounds
+        x="228"
+        y="468"
+        width="457"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="41a75234-898d-47c8-b259-d5be46cdee9b"
+      textAlignment="1"
+      content="Conclude, complete, activity. &#xD;&#xA;Example: Terminate the use of a product version.">
+    <bounds
+        x="228"
+        y="528"
+        width="457"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="1e0afdc5-f3c4-4aed-b57e-7b56de06b5a6"
+      textAlignment="1"
+      content="Commence/open an operational or administrative service. &#xD;&#xA;Example: Activate the ATM network operation.">
+    <bounds
+        x="936"
+        y="93"
+        width="457"
+        height="52"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="295bd820-f149-48cd-b6a9-b872bfeb5a98"
+      textAlignment="1"
+      content="Manufacture and distribute an item (terms considered: create/manufacture/make). &#xD;&#xA;Example: Create a new analytical model design.">
+    <bounds
+        x="936"
+        y="153"
+        width="457"
+        height="52"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="cc0f6a8c-47f6-4b18-abfb-3f4a45f88e06"
+      textAlignment="1"
+      content="Change the operating parameters for an ongoing service/capability. &#xD;&#xA;Example: Change on-line ATMs in the network to take machines out of service.">
+    <bounds
+        x="936"
+        y="213"
+        width="457"
+        height="52"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="d32a1f7e-7e4d-4259-8faf-ef42cba1a7ae"
+      textAlignment="1"
+      content="Provide details against a predefined notification agreement. &#xD;&#xA;Example: A unit subscribes to update notifications from the customer agreement service domain.">
+    <bounds
+        x="936"
+        y="300"
+        width="457"
+        height="61"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="85fac9a8-151d-42d6-ab2f-4a09558c5ed2"
+      textAlignment="1"
+      content=" Return information/report as requested. &#xD;&#xA;Examples: Obtain an account balance. Request a report covering activity analysis.">
+    <bounds
+        x="936"
+        y="377"
+        width="457"
+        height="56"/>
   </children>
 </archimate:ArchimateDiagramModel>

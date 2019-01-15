@@ -8,8 +8,8 @@
       id="d608db5f-4652-472f-ba2c-11abeedc2b80"
       targetConnections="fda1c31d-d733-4055-b7c2-8fd895e52423">
     <bounds
-        x="336"
-        y="36"
+        x="24"
+        y="12"
         width="325"
         height="55"/>
     <archimateElement
@@ -173,8 +173,8 @@
           href="AccessRelationship_795a12b7-428e-4506-b772-d8bca4a6718d.xml#795a12b7-428e-4506-b772-d8bca4a6718d"/>
     </sourceConnections>
     <bounds
-        x="336"
-        y="120"
+        x="24"
+        y="96"
         width="325"
         height="781"/>
     <children
@@ -446,8 +446,8 @@
           href="CompositionRelationship_a6201764-fac4-494c-8c41-2ff6fb086a6f.xml#a6201764-fac4-494c-8c41-2ff6fb086a6f"/>
     </sourceConnections>
     <bounds
-        x="684"
-        y="120"
+        x="372"
+        y="96"
         width="205"
         height="145"/>
     <children
@@ -521,8 +521,8 @@
           href="CompositionRelationship_d51d0c53-4195-437c-b5ab-369921423c4b.xml#d51d0c53-4195-437c-b5ab-369921423c4b"/>
     </sourceConnections>
     <bounds
-        x="684"
-        y="276"
+        x="372"
+        y="252"
         width="205"
         height="469"/>
     <children
@@ -604,8 +604,8 @@
           href="CompositionRelationship_3a55d034-55a8-4897-b468-cc77fdc04b34.xml#3a55d034-55a8-4897-b468-cc77fdc04b34"/>
     </sourceConnections>
     <bounds
-        x="684"
-        y="756"
+        x="372"
+        y="732"
         width="205"
         height="145"/>
     <children
@@ -643,8 +643,8 @@
       id="468a25ce-bbea-4dc9-b5e0-362ada8e2340"
       targetConnections="42996473-5c64-49c6-ad89-fd0f0e56c420">
     <bounds
-        x="336"
-        y="960"
+        x="24"
+        y="936"
         width="120"
         height="55"/>
     <archimateElement
@@ -656,8 +656,8 @@
       id="e69131a7-121b-4eac-98e1-cd4b2ede6e3b"
       targetConnections="0e578202-fd69-4361-9401-2baa6aff3e45 b5330f32-4b08-4041-a358-74515ad67686">
     <bounds
-        x="504"
-        y="960"
+        x="192"
+        y="936"
         width="169"
         height="55"/>
     <archimateElement
@@ -677,8 +677,8 @@
           href="AggregationRelationship_a7eb3890-926a-4311-a2c3-75f6eb87c53d.xml#a7eb3890-926a-4311-a2c3-75f6eb87c53d"/>
     </sourceConnections>
     <bounds
-        x="529"
-        y="1068"
+        x="217"
+        y="1044"
         width="120"
         height="55"/>
     <archimateElement

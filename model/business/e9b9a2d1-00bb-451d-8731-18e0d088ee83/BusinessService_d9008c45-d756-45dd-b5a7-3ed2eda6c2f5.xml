@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Syndicate Mngmt."
-    id="d9008c45-d756-45dd-b5a7-3ed2eda6c2f5"/>
+    id="d9008c45-d756-45dd-b5a7-3ed2eda6c2f5"
+    documentation="Example of use:&#xD;&#xA;A project funding initiative assembles a syndicate of investors&#xD;&#xA;&#xD;&#xA;General comment:&#xD;&#xA;This service domain handles the management, reporting and coordination of syndicates that a bank might create and administer to support certain financial transactions"/>

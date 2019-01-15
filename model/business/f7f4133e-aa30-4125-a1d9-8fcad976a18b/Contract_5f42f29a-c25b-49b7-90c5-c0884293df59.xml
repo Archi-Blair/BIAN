@@ -1,0 +1,5 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Contract) Transact"
+    id="5f42f29a-c25b-49b7-90c5-c0884293df59"
+    documentation="Documentation:&#xD;&#xA; Execute a well-bounded financial transaction/task, typically involving largely automated/structured fulfillment processing. &#xD;&#xA;Example: Execute a payment transaction."/>
