@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Assign responsibility for and activate the Correspondence Operating Session"
+    id="d6237e5e-4d94-4210-acfe-5f6eb519574c"
+    documentation="Service Group:&#xD;&#xA;CorrespondenceOperatingSession_Origination&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;activateCorrespondenceOperatingSession&#xD;&#xA;&#xD;&#xA;Comment:&#xD;&#xA;Assign responsibility for and activate the Correspondence Operating Session"/>

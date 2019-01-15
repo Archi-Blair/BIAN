@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Correspondence"
-    id="7152608d-8ae3-453d-bfb9-3590d10e1b34"/>
+    name="Correspondence/ Корреспонденция и обмен сообщениями"
+    id="7152608d-8ae3-453d-bfb9-3590d10e1b34"
+    documentation="Example of use:&#xD;&#xA;A mail shot for an external campaign is developed&#xD;&#xA;&#xD;&#xA;General comment:&#xD;&#xA;This service domain handles the (typically) automated generation of batches of pre-formatted correspondence, typically integrating customer/product specific data in correspondence templates for variable aspects of content. Its role could be expanded to handling other aspects of outbound and in-bound correspondence/messaging."/>

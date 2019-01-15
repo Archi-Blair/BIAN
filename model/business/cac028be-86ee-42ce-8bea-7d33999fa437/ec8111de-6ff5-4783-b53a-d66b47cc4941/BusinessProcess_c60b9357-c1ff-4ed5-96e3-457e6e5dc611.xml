@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Business Process) Record"
+    name="Record"
     id="c60b9357-c1ff-4ed5-96e3-457e6e5dc611"
     documentation="Documentation:&#xD;&#xA;Capture transaction or event detail associated with a life cycle step . &#xD;&#xA;Example: An employee logs time spent working on a project against the plan."/>

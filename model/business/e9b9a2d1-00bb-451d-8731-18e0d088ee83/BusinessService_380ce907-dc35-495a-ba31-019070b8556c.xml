@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Location Data Mngmt."
-    id="380ce907-dc35-495a-ba31-019070b8556c"/>
+    name="Location Data Mngmt./Сведения о местоположении"
+    id="380ce907-dc35-495a-ba31-019070b8556c"
+    documentation="Example of use:&#xD;&#xA;Maintain the layout and use of a shopping center that is referenced for on-line marketing&#xD;&#xA;&#xD;&#xA;General comment:&#xD;&#xA;The maintenance of location details is used to support more dynamic sales and servicing activities enabled by mobile devices and tracking. At a basic level validity checks are provided, but more interactive uses can also be supported"/>

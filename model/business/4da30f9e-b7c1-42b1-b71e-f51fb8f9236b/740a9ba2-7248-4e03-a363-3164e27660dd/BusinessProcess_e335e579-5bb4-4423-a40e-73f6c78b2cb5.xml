@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Execute updates/amendments to the content/status of a stored document"
+    id="e335e579-5bb4-4423-a40e-73f6c78b2cb5"
+    documentation="Service Group:&#xD;&#xA;DocumentHandlingOperatingSession_Invocation&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;executeDocumentHandlingOperatingSessionAmendment&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA;Execute updates/amendments to the content/status of a stored document"/>

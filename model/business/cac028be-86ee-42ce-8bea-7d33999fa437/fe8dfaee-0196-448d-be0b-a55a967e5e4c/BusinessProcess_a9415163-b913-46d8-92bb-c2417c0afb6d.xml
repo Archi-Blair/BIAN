@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Business Process) Configure"
+    name="Configure"
     id="a9415163-b913-46d8-92bb-c2417c0afb6d"
     documentation="Documentation&#xD;&#xA; Change the operating parameters for an ongoing service/capability. &#xD;&#xA;Example: Change on-line ATMs in the network to take machines out of service."/>

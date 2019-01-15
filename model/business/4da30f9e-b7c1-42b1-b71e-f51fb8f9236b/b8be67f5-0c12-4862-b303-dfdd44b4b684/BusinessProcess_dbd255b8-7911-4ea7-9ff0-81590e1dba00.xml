@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Update an existing location directory entry"
+    id="dbd255b8-7911-4ea7-9ff0-81590e1dba00"
+    documentation="Service Group:&#xD;&#xA;LocationDirectoryEntry_Invocation&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;updateLocationDirectoryEntry&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Update an existing location directory entry&#xD;&#xA;&#xD;&#xA;"/>

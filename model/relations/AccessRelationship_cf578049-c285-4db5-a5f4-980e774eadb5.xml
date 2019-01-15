@@ -2,7 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="cf578049-c285-4db5-a5f4-980e774eadb5"
-    accessType="3">
+    accessType="2">
   <source
       xsi:type="archimate:BusinessFunction"
       href="BusinessFunction_a32b1a4d-020d-4d8e-ba65-8ef56e592635.xml#a32b1a4d-020d-4d8e-ba65-8ef56e592635"/>

@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Document Services"
-    id="5d213797-8ca8-46c9-a6ca-e0fb816b084c"/>
+    name="Document Services/ Служба документов"
+    id="5d213797-8ca8-46c9-a6ca-e0fb816b084c"
+    documentation="Example of use:&#xD;&#xA;Legal documents are created, classified and stored for electronic access&#xD;&#xA;&#xD;&#xA;General comment:&#xD;&#xA;This service domain handles the status tracking, classification, recording/copying (for all media) storage and retrieval of all active documents. It can include document services that retrieve documents from external sources on request. This can combine physical but more commonly electronic storage, retrieval and distribution of important and/or legally significant documentation. It subscribes to service domain Archive Services for longer term storage needs"/>

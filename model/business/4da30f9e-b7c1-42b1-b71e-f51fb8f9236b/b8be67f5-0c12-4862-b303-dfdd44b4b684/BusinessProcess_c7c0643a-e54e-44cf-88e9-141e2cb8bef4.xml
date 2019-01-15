@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process)  Assign responsibility for the location directory"
+    id="c7c0643a-e54e-44cf-88e9-141e2cb8bef4"
+    documentation="Service Group:&#xD;&#xA;LocationDirectoryEntry_Origination&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;activateLocationDirectoryEntry&#xD;&#xA;&#xD;&#xA;Documentation:&#xD;&#xA; Assign responsibility for the location directory&#xD;&#xA;&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Subscribe to Document notification services"
+    id="c5a81f30-9b09-4fb0-b864-56f438b10e14"
+    documentation="Service Group:&#xD;&#xA;DocumentHandlingOperatingSession_Reporting&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;notifyDocumentHandlingOperatingSession&#xD;&#xA;&#xD;&#xA;Comment:&#xD;&#xA;Subscribe to Document Handling Operating Session notification services"/>

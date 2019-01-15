@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Request a check/refresh of a location directory entry"
+    id="98fcd166-e2fa-4bf3-9a08-7e11322cb54e"
+    documentation="Service Group:&#xD;&#xA;LocationDirectoryEntry_Invocation&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;requestLocationDirectoryEntry&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Request a check/refresh of a location directory entry"/>

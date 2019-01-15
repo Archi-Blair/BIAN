@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process)Assign responsibility for and activate the Document Handling Operating Session"
+    id="9212bd4a-97ba-4872-80b4-89f95bf5ccc8"
+    documentation="Service Group:&#xD;&#xA;DocumentHandlingOperatingSession_Origination&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;activateDocumentHandlingOperatingSession&#xD;&#xA;&#xD;&#xA;Comment:&#xD;&#xA;Assign responsibility for and activate the Document Handling Operating Session"/>

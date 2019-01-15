@@ -469,8 +469,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="af84b6bc-f52d-47cf-b41e-f14e13d03292"
-      targetConnections="9cebe346-09ef-48ac-a50d-83aec976c527">
+      id="af84b6bc-f52d-47cf-b41e-f14e13d03292">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="f6ad9851-7332-4870-9611-19c462d8e04e"
@@ -481,9 +480,9 @@
           href="AggregationRelationship_a7eb3890-926a-4311-a2c3-75f6eb87c53d.xml#a7eb3890-926a-4311-a2c3-75f6eb87c53d"/>
     </sourceConnections>
     <bounds
-        x="411"
-        y="1080"
-        width="163"
+        x="497"
+        y="1092"
+        width="148"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -493,15 +492,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f49ba505-0dde-4368-8a4b-6e2dcefb64aa"
       targetConnections="36e27d48-d9e9-4cc4-ac62-6ddd8c69f811">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="9cebe346-09ef-48ac-a50d-83aec976c527"
-        source="f49ba505-0dde-4368-8a4b-6e2dcefb64aa"
-        target="af84b6bc-f52d-47cf-b41e-f14e13d03292">
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_89c37024-e617-465c-a96d-3423e6fec882.xml#89c37024-e617-465c-a96d-3423e6fec882"/>
-    </sourceConnections>
     <bounds
         x="336"
         y="981"
