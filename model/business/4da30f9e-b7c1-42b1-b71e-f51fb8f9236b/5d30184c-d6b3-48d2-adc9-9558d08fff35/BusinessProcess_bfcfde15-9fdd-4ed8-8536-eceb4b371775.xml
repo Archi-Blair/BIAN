@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Update Issued Device Allocation Device"
+    id="bfcfde15-9fdd-4ed8-8536-eceb4b371775"
+    documentation="Service Group:&#xD;&#xA;IssuedDeviceAllocation_Invocation&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;updateIssuedDeviceAllocationDevice"/>

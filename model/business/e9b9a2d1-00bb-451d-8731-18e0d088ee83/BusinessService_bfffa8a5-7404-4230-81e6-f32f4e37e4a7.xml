@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Issued Device Admin"
-    id="bfffa8a5-7404-4230-81e6-f32f4e37e4a7"/>
+    id="bfffa8a5-7404-4230-81e6-f32f4e37e4a7"
+    documentation="Example of use:&#xD;&#xA;A card is cancelled and a replacement card is generated and issued for a customer reporting a stolen card&#xD;&#xA;&#xD;&#xA;General comment:&#xD;&#xA;This service domain administers the inventory management and allocation/issuance for all issued devices and materials (e.g. card). This covers credit/debit cards and can include other identification devices such as keychain fobs and in time will include virtual inventory such as electronic signatures and keys. An aspect of the administration includes maintaining device reference details and states such as operating system release and age/duration in use."/>

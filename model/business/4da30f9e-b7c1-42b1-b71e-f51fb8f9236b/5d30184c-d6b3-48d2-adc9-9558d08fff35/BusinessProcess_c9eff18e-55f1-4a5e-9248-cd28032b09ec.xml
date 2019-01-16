@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Retrieve resource and/or resource allocation report"
+    id="c9eff18e-55f1-4a5e-9248-cd28032b09ec"
+    documentation="Service Group:&#xD;&#xA;IssuedDeviceAllocation_Reporting&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;retrieveIssuedDeviceAllocation&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Retrieve resource and/or resource allocation report"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process)  Evaluate whether a proposed action is covered by the agreement terms"
+    id="33333a00-4838-4f84-a56c-5e50cc716c16"
+    documentation="Service Group:&#xD;&#xA;CustomerAgreement_Invocation&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;evaluateCustomerAgreement&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Evaluate whether a proposed action is covered by the agreement terms"/>

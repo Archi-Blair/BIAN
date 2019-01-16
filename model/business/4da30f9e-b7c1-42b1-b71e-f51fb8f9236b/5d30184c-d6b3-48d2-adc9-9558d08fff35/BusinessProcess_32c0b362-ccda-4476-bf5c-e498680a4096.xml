@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process)  Update allocatable resource record"
+    id="32c0b362-ccda-4476-bf5c-e498680a4096"
+    documentation="Service Group:&#xD;&#xA;IssuedDeviceAllocation_Invocation&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;updateIssuedDeviceAllocation&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Update allocatable resource record"/>

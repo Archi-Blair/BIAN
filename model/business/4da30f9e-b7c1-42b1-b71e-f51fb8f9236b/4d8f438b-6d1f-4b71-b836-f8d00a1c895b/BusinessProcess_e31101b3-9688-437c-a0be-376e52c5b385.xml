@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Subscribe to Correspondence Operating Session notification services"
+    id="e31101b3-9688-437c-a0be-376e52c5b385"
+    documentation="Service Group:&#xD;&#xA;CorrespondenceOperatingSession_Reporting&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;notifyCorrespondenceOperatingSession&#xD;&#xA;&#xD;&#xA;Comment:&#xD;&#xA;Subscribe to Correspondence Operating Session notification services"/>

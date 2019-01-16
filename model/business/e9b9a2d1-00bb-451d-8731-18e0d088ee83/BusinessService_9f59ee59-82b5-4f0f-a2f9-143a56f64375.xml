@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Customer Agreement"
-    id="9f59ee59-82b5-4f0f-a2f9-143a56f64375"/>
+    name="Customer Agreement/ Клиентское соглашение"
+    id="9f59ee59-82b5-4f0f-a2f9-143a56f64375"
+    documentation="Example of use:&#xD;&#xA;An new customer agreement is established prior to setting up product specific agreements&#xD;&#xA;&#xD;&#xA;General comment:&#xD;&#xA;The Customer Agreement captures the legal terms of conditions in force for a customer (which as noted can be a complex multinational)."/>

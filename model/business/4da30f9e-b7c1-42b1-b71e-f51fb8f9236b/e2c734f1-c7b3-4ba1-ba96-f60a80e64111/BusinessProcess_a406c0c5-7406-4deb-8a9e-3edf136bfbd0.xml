@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Subscribe to Customer Agreement notification services"
+    id="a406c0c5-7406-4deb-8a9e-3edf136bfbd0"
+    documentation="Service Group:&#xD;&#xA;CustomerAgreement_Reporting&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;notifyCustomerAgreement&#xD;&#xA;&#xD;&#xA;Comment:&#xD;&#xA;Subscribe to Customer Agreement notification services"/>

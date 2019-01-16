@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) provide Issued Device Allocation Reader"
+    id="5c460da9-9db7-48d3-8cea-f964efa7fb47"
+    documentation="Service Group:&#xD;&#xA;IssuedDeviceAllocation_Invocation&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;provideIssuedDeviceAllocationReader&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>

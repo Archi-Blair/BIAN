@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Initiate a Customer Agreement"
+    id="c320c6e9-f968-4415-a935-202452dab06c"
+    documentation="Service Group:&#xD;&#xA;CustomerAgreement_Origination&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;initiateCustomerAgreement&#xD;&#xA;&#xD;&#xA;Comment:&#xD;&#xA;Initiate a Customer Agreement"/>
