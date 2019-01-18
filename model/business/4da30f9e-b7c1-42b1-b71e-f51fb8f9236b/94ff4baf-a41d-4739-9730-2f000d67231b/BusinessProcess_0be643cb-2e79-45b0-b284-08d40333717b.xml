@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Business Process) Terminate Operating Session/Завершить рабочий сеанс"
+    name="(Business Process) Terminate Operating Session/Завершить работу или сеанс"
     id="0be643cb-2e79-45b0-b284-08d40333717b"
     documentation="Service Group:&#xD;&#xA;CustomerWorkbenchOperatingSession_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;terminateCustomerWorkbenchOperatingSession&#xD;&#xA;&#xD;&#xA;Comment:&#xD;&#xA;Terminate all or some part of the Customer Workbench Operating Session&#xD;&#xA;Завершить полностью или частично рабочий сеанс"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Оценка неудовлетворительная"
+    id="2cd5cf24-5fd3-4f3a-80a4-046c9cdfe5b2">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_2fa24f73-5c9a-483f-aae9-3eb13a4e9132.xml#2fa24f73-5c9a-483f-aae9-3eb13a4e9132"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_0be643cb-2e79-45b0-b284-08d40333717b.xml#0be643cb-2e79-45b0-b284-08d40333717b"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Совпадений не найдено"
+    id="12052d80-fa85-4579-8e0a-eed647b3703f">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_7b023557-5561-4ab6-a86a-92472a0d5f9c.xml#7b023557-5561-4ab6-a86a-92472a0d5f9c"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_a78beda7-7fea-4c70-9a4a-fb0442c00dd6.xml#a78beda7-7fea-4c70-9a4a-fb0442c00dd6"/>
+</archimate:TriggeringRelationship>

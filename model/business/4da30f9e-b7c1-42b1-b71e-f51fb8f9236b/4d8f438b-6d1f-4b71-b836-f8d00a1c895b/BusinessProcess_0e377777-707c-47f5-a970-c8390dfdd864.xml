@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Business Process) Terminate all or some part of the Correspondence Operating Session"
+    name="(Business Process) Terminate all or some part of the Correspondence Operating Session/ Завершить все или часть сеанса работы с корреспонденцией"
     id="0e377777-707c-47f5-a970-c8390dfdd864"
     documentation="Service Group:&#xD;&#xA;CorrespondenceOperatingSession_Invocation&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;terminateCorrespondenceOperatingSession&#xD;&#xA;&#xD;&#xA;Comment:&#xD;&#xA;Terminate all or some part of the Correspondence Operating Session"/>

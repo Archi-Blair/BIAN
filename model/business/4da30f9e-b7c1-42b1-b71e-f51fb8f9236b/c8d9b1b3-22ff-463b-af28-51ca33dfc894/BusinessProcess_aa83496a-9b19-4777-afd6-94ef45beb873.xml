@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Business Process)  Execute a contact dialogue type selection/Выполнить"
+    name="(Business Process)  Execute a contact dialogue type selection/Выполнить выбор типа диалога"
     id="aa83496a-9b19-4777-afd6-94ef45beb873"
     documentation="Service Group:&#xD;&#xA;CustomerContactSessionProcedure_Origination&#xD;&#xA;ServiceOperation: &#xD;&#xA;executeCustomerContactSessionProcedureDialogue&#xD;&#xA;&#xD;&#xA;Documentation:&#xD;&#xA; Execute a contact dialogue type selection"/>

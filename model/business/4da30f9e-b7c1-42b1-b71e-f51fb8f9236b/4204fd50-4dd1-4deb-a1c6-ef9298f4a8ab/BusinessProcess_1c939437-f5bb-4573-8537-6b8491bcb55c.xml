@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Business Process) Execute/Исполнить"
+    name="(Business Process) Execute/Выполнить автоматический процесс по онбордингу проспекта"
     id="1c939437-f5bb-4573-8537-6b8491bcb55c"
     documentation="ServiceGroup:&#xD;&#xA;PartyRelationshipProcedure_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;executePartyRelationshipProcedure&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Execute an automated capture of a new prospect&#xD;&#xA;"/>

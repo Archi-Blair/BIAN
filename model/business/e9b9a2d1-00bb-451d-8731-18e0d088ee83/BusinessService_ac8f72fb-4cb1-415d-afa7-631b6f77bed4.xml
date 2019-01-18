@@ -1,5 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Party Data Mngmt./Полный набор справочной информации по &quot;стороне&quot;"
+    name="Party Data Mngmt./Ключевая справочная информация по контрагенту/участнику отношений"
     id="ac8f72fb-4cb1-415d-afa7-631b6f77bed4"
     documentation="Example of use:&#xD;&#xA;Party legal entity details are obtained for selection in an internal sales campaign&#xD;&#xA;&#xD;&#xA;General comment:&#xD;&#xA;This service domain maintains a comprehensive set of party reference information. This has significantly different content and functionality depending on party/customer type. The main reference information is legal entity structure. It is possible that additional party type specific reference service domains will be added in later versions of the model (for example reference details specific to customer types, brokers, agents, counterparties, sub-custodians etc.)"/>

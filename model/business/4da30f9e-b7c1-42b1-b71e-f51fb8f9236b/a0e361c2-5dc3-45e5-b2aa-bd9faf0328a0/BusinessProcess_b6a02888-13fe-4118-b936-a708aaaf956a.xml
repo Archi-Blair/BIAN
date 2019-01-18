@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Business Process) Retrieve Regulatory Compliance Assessment/Получить отчет"
+    name="(Business Process) Retrieve Regulatory Compliance Assessment/Получить отчет об оценке соответствия нормативным требованиям"
     id="b6a02888-13fe-4118-b936-a708aaaf956a"
     documentation="ServiceGroup:&#xD;&#xA;RegulatoryComplianceAssessment_Reporting&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;retrieveRegulatoryComplianceAssessment&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Retrieve a regulatory compliance assessment report"/>

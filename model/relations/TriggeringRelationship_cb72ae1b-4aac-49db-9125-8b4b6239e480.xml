@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Данные ранее были зарегистрированы в системе"
+    id="cb72ae1b-4aac-49db-9125-8b4b6239e480">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_7b023557-5561-4ab6-a86a-92472a0d5f9c.xml#7b023557-5561-4ab6-a86a-92472a0d5f9c"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_297dd4ad-87c4-4c8c-a660-a266fc1f423d.xml#297dd4ad-87c4-4c8c-a660-a266fc1f423d"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Оценка удовлетворительная и присутствует документ от проспекта"
+    id="d5b46a12-b13a-41da-aa25-d610969dc463">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_2fa24f73-5c9a-483f-aae9-3eb13a4e9132.xml#2fa24f73-5c9a-483f-aae9-3eb13a4e9132"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_73c803db-3aa6-4cf0-92c7-33a1f4003c90.xml#73c803db-3aa6-4cf0-92c7-33a1f4003c90"/>
+</archimate:TriggeringRelationship>

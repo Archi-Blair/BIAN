@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Business Process) Request provisioning (arrange obtaining/delivery) of a required document"
+    name="(Business Process) Request provisioning of a required document/ Запросить предоставление (организовать доставку) документа"
     id="aa49fa8c-006d-4c74-9ac9-34d1a2dde247"
     documentation="Service Group:&#xD;&#xA;DocumentHandlingOperatingSession_Invocation&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;requestDocumentHandlingOperatingSessionProvisioning&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Request provisioning (arrange obtaining/delivery) of a required document"/>
