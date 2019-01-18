@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Business Process) Record activity/feedback against the correspondence unit/ Запись действия/отзыв от группы переписки "
+    name="(Business Process) Record activity/feedback against the correspondence unit/ Запись действия/отзыв от группы рассылки"
     id="60f6d946-e338-4fae-a4a3-84a304261fd8"
     documentation="Service Group:&#xD;&#xA;CorrespondenceOperatingSession_Invocation&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;recordCorrespondenceOperatingSession&#xD;&#xA;&#xD;&#xA;Documentation:&#xD;&#xA; Record activity/feedback against the correspondence unit"/>
