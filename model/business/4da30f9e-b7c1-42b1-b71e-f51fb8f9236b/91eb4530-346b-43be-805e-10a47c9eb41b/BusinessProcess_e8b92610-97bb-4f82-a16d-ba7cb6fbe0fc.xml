@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Execute the extract of customer reference data from provided documentation"
+    id="e8b92610-97bb-4f82-a16d-ba7cb6fbe0fc"
+    documentation="Service Group:&#xD;&#xA;CustomerOfferProcedure_Invocation&#xD;&#xA;&#xD;&#xA;ServiceOperation: &#xD;&#xA;executeCustomerOfferProcedureDocumentation&#xD;&#xA;&#xD;&#xA;Documentation:&#xD;&#xA; Execute the extract of customer reference data from provided documentation"/>

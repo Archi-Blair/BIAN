@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Request the negotiation of terms/pricing"
+    id="032987a7-d334-4740-89b4-84b0c789fa06"
+    documentation="Service Group:&#xD;&#xA;CustomerOfferProcedure_Invocation&#xD;&#xA;&#xD;&#xA;ServiceOperation: &#xD;&#xA;requestCustomerOfferProcedurePricing&#xD;&#xA;&#xD;&#xA;Documentation:&#xD;&#xA; Request the negotiation of terms/pricing&#xD;&#xA;"/>

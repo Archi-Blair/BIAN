@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Customer Offer"
-    id="0461bbe6-1050-4d7a-9094-33629790e77a"/>
+    name="Customer Offer/ Предложение клиенту"
+    id="0461bbe6-1050-4d7a-9094-33629790e77a"
+    documentation="Example of use:&#xD;&#xA;An existing customer has discussed short term funding needs with the Financial Advisor and agree in principle to establish a corporate loan. The Offer Management process works through the detailed checks, authorizations and documentation needed prior to the Corporate Loan Service Domain establishing the new facility&#xD;&#xA;&#xD;&#xA;General comment:&#xD;&#xA;The Offer Management Service Domain is general for all types of customers and any combination of product or service. It brings together product/service specific details (e.g. pricing &amp; negotiation ranges, documentation/authorization/regulatory requirements, eligibility and declarations, credit and other customer details), customer specific details (e.g. credit standing, other classifications such as operational overhead/retention target/activity history, demographics and segmentation) and orchestrates a potentially complex/multi-threaded workflow to get the offer to the point where the product/service can be initiated."/>

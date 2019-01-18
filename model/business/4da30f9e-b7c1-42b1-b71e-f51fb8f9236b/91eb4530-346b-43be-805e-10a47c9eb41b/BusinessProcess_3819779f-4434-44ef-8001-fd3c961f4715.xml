@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Request the determination of product/service options"
+    id="3819779f-4434-44ef-8001-fd3c961f4715"
+    documentation="Service Group:&#xD;&#xA;CustomerOfferProcedure_Invocation&#xD;&#xA;&#xD;&#xA;ServiceOperation: &#xD;&#xA;requestCustomerOfferProcedureProduct&#xD;&#xA;&#xD;&#xA;Documentation:&#xD;&#xA; Request the determination of product/service options"/>

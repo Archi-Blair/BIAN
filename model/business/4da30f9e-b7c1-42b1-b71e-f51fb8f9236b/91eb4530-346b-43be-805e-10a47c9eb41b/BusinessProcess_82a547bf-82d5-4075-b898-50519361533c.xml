@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Execute the capture and application of existing customer reference data"
+    id="82a547bf-82d5-4075-b898-50519361533c"
+    documentation="Service Group:&#xD;&#xA;CustomerOfferProcedure_Invocation&#xD;&#xA;&#xD;&#xA;ServiceOperation: &#xD;&#xA;executeCustomerOfferProcedureCustomer&#xD;&#xA;&#xD;&#xA;Documentation:&#xD;&#xA; Execute the capture and application of existing customer reference data"/>

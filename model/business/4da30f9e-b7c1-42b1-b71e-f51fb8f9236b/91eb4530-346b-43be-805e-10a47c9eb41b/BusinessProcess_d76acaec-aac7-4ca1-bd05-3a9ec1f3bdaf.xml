@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Request a service under the Customer Offer Procedure"
+    id="d76acaec-aac7-4ca1-bd05-3a9ec1f3bdaf"
+    documentation="Service Group:&#xD;&#xA;CustomerOfferProcedure_Invocation&#xD;&#xA;&#xD;&#xA;ServiceOperation: &#xD;&#xA;requestCustomerOfferProcedure&#xD;&#xA;&#xD;&#xA;Comment:&#xD;&#xA;Request a service under the Customer Offer Procedure"/>
