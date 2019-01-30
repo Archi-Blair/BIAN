@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process)  Update an existing product directory entry/Обновление существующей записи каталога продуктов"
+    id="19e4eef0-c986-41c5-b765-988d130fa8d2"
+    documentation="Service Group:&#xD;&#xA;ProductDirectoryEntry_Invocation&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;updateProductDirectoryEntry&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Update an existing product directory entry&#xD;&#xA;&#xD;&#xA;"/>

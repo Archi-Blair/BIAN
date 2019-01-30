@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Amend the configuration arrangements/parameters governing the product directory"
+    id="9d86aff3-1d06-4e16-8973-e75ad48a81f1"
+    documentation="Service Group:&#xD;&#xA;ProductDirectoryEntry_Origination&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;configureProductDirectoryEntry&#xD;&#xA;&#xD;&#xA;Documentation&#xD;&#xA; Amend the configuration arrangements/parameters governing the product directory"/>

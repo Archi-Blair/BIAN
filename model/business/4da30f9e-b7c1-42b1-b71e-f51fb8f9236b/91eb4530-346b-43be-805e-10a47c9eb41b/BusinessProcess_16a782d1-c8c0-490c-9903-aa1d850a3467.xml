@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Business Process) Retrieve customer offer processing report"
+    name="(Business Process) Retrieve customer offer processing report/Получение отчета об обработке предложения клиента"
     id="16a782d1-c8c0-490c-9903-aa1d850a3467"
-    documentation="Service Group:&#xD;&#xA;CustomerOfferProcedure_Reporting&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;retrieveCustomerOfferProcedure&#xD;&#xA;&#xD;&#xA;Documentation:&#xD;&#xA; Retrieve customer offer processing report"/>
+    documentation="Service Group:&#xD;&#xA;CustomerOfferProcedure_Reporting&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;retrieveCustomerOfferProcedure&#xD;&#xA;&#xD;&#xA;Documentation:&#xD;&#xA; Retrieve customer offer processing report&#xD;&#xA;Получение отчета об обработке предложения клиента"/>

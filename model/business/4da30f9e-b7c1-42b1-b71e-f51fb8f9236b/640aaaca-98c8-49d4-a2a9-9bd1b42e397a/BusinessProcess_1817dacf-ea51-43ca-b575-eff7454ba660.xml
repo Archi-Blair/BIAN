@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process)  Register a new product's servicing instructions in the directory/Регистрация инструкций по обслуживанию нового продукта в каталоге"
+    id="1817dacf-ea51-43ca-b575-eff7454ba660"
+    documentation="Service Group:&#xD;&#xA;ProductDirectoryEntry_Invocation&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;registerProductDirectoryEntryServicing&#xD;&#xA;&#xD;&#xA;Documentation:&#xD;&#xA;Register a new product's servicing instructions in the directory&#xD;&#xA;Регистрация инструкций по обслуживанию нового продукта в каталоге"/>

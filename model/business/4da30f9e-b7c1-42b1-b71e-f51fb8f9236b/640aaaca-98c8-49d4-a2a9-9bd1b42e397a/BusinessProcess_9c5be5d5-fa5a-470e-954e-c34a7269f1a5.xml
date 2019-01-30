@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Register a new product's marketing materials in the directory/Регистрация маркетинговых материалов нового продукта в каталоге"
+    id="9c5be5d5-fa5a-470e-954e-c34a7269f1a5"
+    documentation="Service Group:&#xD;&#xA;ProductDirectoryEntry_Invocation&#xD;&#xA;ServiceOperation:&#xD;&#xA;registerProductDirectoryEntrySales/Marketing&#xD;&#xA;&#xD;&#xA;Documentation:&#xD;&#xA; Register a new product's marketing materials in the directory&#xD;&#xA;Регистрация маркетинговых материалов нового продукта в каталоге"/>

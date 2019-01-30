@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Subscribe to product directory notification services/Подписка на службы уведомлений каталога продуктов"
+    id="683b93b9-113b-4683-8bb3-931dbb623de1"
+    documentation="Service Group:&#xD;&#xA;ProductDirectoryEntry_Reporting&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;notifyProductDirectoryEntry&#xD;&#xA;&#xD;&#xA;Documentation:&#xD;&#xA; Subscribe to product directory notification services&#xD;&#xA;Подписка на службы уведомлений каталога продуктов"/>

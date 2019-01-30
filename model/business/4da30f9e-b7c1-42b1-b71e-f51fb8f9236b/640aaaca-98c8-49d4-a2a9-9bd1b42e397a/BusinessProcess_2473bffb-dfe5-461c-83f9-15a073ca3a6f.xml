@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process)  Retrieve a product directory record/report/Получение записи/отчета каталога продуктов"
+    id="2473bffb-dfe5-461c-83f9-15a073ca3a6f"
+    documentation="Service Group:&#xD;&#xA;ProductDirectoryEntry_Reporting&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA;retrieveProductDirectoryEntry&#xD;&#xA;&#xD;&#xA;Documentation:&#xD;&#xA; Retrieve a product directory record/report&#xD;&#xA;Получение записи/отчета каталога продуктов&#xD;&#xA;"/>

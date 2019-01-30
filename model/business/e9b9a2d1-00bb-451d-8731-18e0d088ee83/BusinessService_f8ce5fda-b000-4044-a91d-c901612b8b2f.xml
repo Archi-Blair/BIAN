@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Product Directory"
-    id="f8ce5fda-b000-4044-a91d-c901612b8b2f"/>
+    name="Product Directory/ Продуктовый каталог"
+    id="f8ce5fda-b000-4044-a91d-c901612b8b2f"
+    documentation="Example of use:&#xD;&#xA;Available product components, functions and features are registered and stored in SD Product Directory, ready to be used by SD Product Design.&#xD;&#xA;New product specifications from Q&amp;E SDs will be registered in SD Product Directory, with all its functions, features, price models etc. available in the O&amp;E SDs as operational products, and with the sales product, which includes terms and conditions, in SD Sales Product."/>

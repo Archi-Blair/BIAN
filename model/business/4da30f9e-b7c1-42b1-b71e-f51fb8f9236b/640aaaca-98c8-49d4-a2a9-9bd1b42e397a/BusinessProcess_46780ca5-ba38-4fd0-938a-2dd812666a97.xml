@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Business Process) Request a refresh/update check of the product directory record/Запрос обновления/проверки обновления записи каталога продуктов"
+    id="46780ca5-ba38-4fd0-938a-2dd812666a97"
+    documentation="Service Group:&#xD;&#xA;ProductDirectoryEntry_Invocation&#xD;&#xA;&#xD;&#xA;ServiceOperation:&#xD;&#xA; requestProductDirectoryEntry&#xD;&#xA;&#xD;&#xA;Documentation:&#xD;&#xA; Request a refresh/update check of the product directory record&#xD;&#xA;Запрос обновления/проверки обновления записи каталога продуктов"/>
