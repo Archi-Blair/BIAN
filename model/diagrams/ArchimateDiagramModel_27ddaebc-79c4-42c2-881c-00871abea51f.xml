@@ -1437,9 +1437,9 @@
           targetConnections="cb5f313d-e313-4a30-aac3-64adcc2762c6">
         <bounds
             x="13"
-            y="460"
+            y="456"
             width="335"
-            height="33"/>
+            height="37"/>
         <archimateElement
             xsi:type="archimate:BusinessService"
             href="BusinessService_87ce8d4b-0959-476b-8d3c-fd9fa333c6e4.xml#87ce8d4b-0959-476b-8d3c-fd9fa333c6e4"/>
